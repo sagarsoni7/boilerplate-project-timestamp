@@ -10,14 +10,11 @@ My project for the [Timestamp Microservice challenge](https://learn.freecodecamp
 * HTML5
 * [Moment.js](https://momentjs.com)
 
-## Demo
-
-View project demo at [#](#).
 
 ## Installation
 
 ```
-$ git clone #
+$ git clone git@github.com:sagarsoni7/boilerplate-project-timestamp.git
 $ cd timestamp-api
 $ npm install
 $ npm start
